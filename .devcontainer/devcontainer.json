@@ -1,0 +1,6 @@
+{
+    "image": "golang:buster",
+    "extensions": [
+        "golang.go"
+    ]
+}
